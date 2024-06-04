@@ -11,7 +11,7 @@ Jessica Farrell, sole proprietor of Redstart Works LLC, is a facilitator, educat
 # About this website
 This website was first built using [Amanda Visconti's guide to building static sites with GitHub](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) pages in June 2024. Thank you Amanda! 😍
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the base [Jekyll](https://jekyllrb.com/) theme. 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

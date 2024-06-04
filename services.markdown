@@ -5,10 +5,10 @@ permalink: /services/
 ---
 I’m a consultant, facilitator, and educator. I can help you design or execute your next project and train your workforce. 
 
-[My training services](http://localhost:4000/RedstartWorks/2024/06/04/training-services.html)
+[My training services](https://facilitator-jess.github.io/RedstartWorks/2024/06/04/training-services.html)
 ------
 
-[My consulting services](http://localhost:4000/RedstartWorks/2024/06/04/consulting-services.html)
+[My consulting services](https://facilitator-jess.github.io/RedstartWorks/2024/06/04/consulting-services.html)
 -------
 
 
