@@ -23,4 +23,4 @@ The MA Joint Committee on Advanced Information Technology, the Internet and Cybe
 
 But getting out of committee is just step one. The Legislature needs to pass this before the end of July. Join this event to learn more about this legislation, discuss how it relates to our values as information professionals, and get ready to take action!
 
-Live in MA, can’t make it to the event, but want to help? Please email your legislators about the [Data Privacy Act](https://mobilize.aclum.org/a/pass-data-privacy-regulations) and the [Location Shield Act](https://mobilize.aclum.org/a/pass-location-shield-act), and feel free to [contact me] (mailto:facilitator.jess@gmail.com) if you have further questions!
+Live in MA, can’t make it to the event, but want to help? Please email your legislators about the [Data Privacy Act](https://mobilize.aclum.org/a/pass-data-privacy-regulations) and the [Location Shield Act](https://mobilize.aclum.org/a/pass-location-shield-act), and feel free to [contact me](mailto:facilitator.jess@gmail.com) if you have further questions!
