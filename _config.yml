@@ -22,8 +22,8 @@ title: Redstart Works
 email: redstart.works@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Redstart Works shifts power and resources to archivists, archives, and the commons. Owned and operated by Jess Farrell.
-baseurl: "/RedstartWorks/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/RedstartWorks/" 
+url: "https://facilitator-jess.github.io/" 
 twitter_username: j_feral@digipres.club
 github_username: facilitator-jess 
 
