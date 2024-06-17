@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Event: Building Power for Data Privacy"
-date:   2024-06-11 08:10:09 -0400
+date:   2024-06-17 08:10:09 -0400
 ---
 
 
