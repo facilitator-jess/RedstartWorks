@@ -26,6 +26,10 @@ baseurl: "/RedstartWorks/"
 url: "https://facilitator-jess.github.io/RedstartWorks/" 
 twitter_username: redstart_works@glammr.us
 github_username: facilitator-jess
+collections:
+  services:
+  events:
+  works_in_progress:
 
 # Build settings
 markdown: kramdown

@@ -3,7 +3,8 @@ layout: page
 title: Services
 permalink: /services/
 ---
-I’m a consultant, facilitator, and educator. I can help you design or execute your next project and train your workforce. 
+
+I'm a consultant, facilitator, and educator. I can help you design or execute your next project and train your workforce. 
 
 [My training services](https://facilitator-jess.github.io/RedstartWorks/2024/06/04/training-services.html)
 ------

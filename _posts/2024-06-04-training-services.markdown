@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Training for Information Professionals"
-date:   2024-06-04 12:16:09 -0400
+title: "Training for Information Professionals"
+date: 2024-06-04 12:16:09 -0400
 ---
 I’m a facilitator, trainer, and educator. I can help you train your workforce. [Get in touch](mailto:redstart.works@gmail.com) to work with me!
 
