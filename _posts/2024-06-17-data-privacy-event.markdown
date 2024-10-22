@@ -2,13 +2,14 @@
 layout: post
 title:  "Event: Building Power for Data Privacy"
 date:   2024-06-17 08:10:09 -0400
+categories: ['event']
 ---
 
 ![test alt text](/RedstartWorks/images/DataPrivacyEvent2024.png)
 
 Building Power for Data Privacy in MA
 --------
-You’re invited to learn and talk with other information professionals about an important data privacy law that we can advocate for in MA! The ACLU MA is mobilizing residents to email legislators about the [Location Shield Act](https://mobilize.aclum.org/a/pass-location-shield-act) and the [Data Privacy Act](https://mobilize.aclum.org/a/pass-data-privacy-regulations). This virtual event is hosted by the [ACLU MA](https://www.aclum.org/en/ban-sale-location-data) and [Redstart Works LLC](https://facilitator-jess.github.io/RedstartWorks/).
+You’re invited to learn and talk with other information professionals about an important data privacy law that we can advocate for in MA! The ACLU MA is mobilizing residents to email legislators about the [Location Shield Act](https://mobilize.aclum.org/a/pass-location-shield-act) and the [Data Privacy Act](https://mobilize.aclum.org/a/pass-data-privacy-regulations). This virtual event is hosted by the [ACLU MA](https://www.aclum.org/en/ban-sale-location-data) and [Redstart Works](https://facilitator-jess.github.io/RedstartWorks/).
 
 Date: June 26, 2024
 
