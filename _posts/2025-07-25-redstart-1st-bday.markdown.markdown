@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Happy 1st Birthday to Redstart Works"
-date:   2025-07-25 11:19:09 -0400
+date:   2025-07-25 00:00:00 -0400
 ---
 
 ![Redstart Works Logo](/RedstartWorks/images/RWLogo.png)
@@ -36,7 +36,7 @@ I also worked for a catering company about twice a week as waitstaff 🍽️
 - I served on a municipal board
 - Presented a workshop at the joint 2025 annual business meeting of SAA CoPP/CoPA/RAAC/I&A on how to talk to legislators about archives
 - Worked on getting a co-sponsor to introduce the [Public Archives Resiliency Act](www2.archivists.org/groups/committee-on-public-policy/public-archives-resiliency-act) (still looking - contact me if you want to help!)
-- I interviewed for 4 jobs and responded to __ RFPs that didn't pan out
+- I interviewed for 4 full time jobs and responded to 7 RFPs that didn't pan out.
 
 ## Building the business
 - I got a logo! Thank you to [Kit Collins](https://www.kitschcollins.com/) for creating it for me! 
