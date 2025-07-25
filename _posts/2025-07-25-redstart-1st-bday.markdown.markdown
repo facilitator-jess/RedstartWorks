@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happy 1st Birthday to Redstart Works 🥳"
+title:  "Happy 1st Birthday to Redstart Works"
 date:   2025-07-25 11:19:09 -0400
 ---
 
