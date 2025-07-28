@@ -6,7 +6,7 @@ date:   2025-07-25 00:00:00 -0400
 
 ![Redstart Works Logo](/RedstartWorks/images/RWLogo.png)
 
-Redstart Works, one-woman archival consultancy, was established on July 25, 2024. I'm excited to celebrate one trip around the sun! Over the last year, I learned and did a lot of things. I'm celebrating the best way an archivist can, by simply recapping what happened.
+Redstart Works, a one-woman archival consultancy, was established on July 25, 2024. I'm excited to celebrate one trip around the sun! Over the last year, I learned and did a lot of things. I'm celebrating the best way an archivist can, by simply recapping what happened.
 
 I'm thinking about my time in terms of paid and unpaid labor these days, so that's how it's organized for the recap.
 
@@ -35,7 +35,7 @@ I also worked for a catering company about twice a week as waitstaff 🍽️
 - Presented at the New England Archivists 2025 Spring Meeting on the environmental effects of AI, and at Humanities Advocacy Day on the importance of funding NARA.
 - I served on a municipal board
 - Presented a workshop at the joint 2025 annual business meeting of SAA CoPP/CoPA/RAAC/I&A on how to talk to legislators about archives
-- Worked on getting a co-sponsor to introduce the [Public Archives Resiliency Act](www2.archivists.org/groups/committee-on-public-policy/public-archives-resiliency-act) (still looking - contact me if you want to help!)
+- Worked on getting a co-sponsor to introduce the [Public Archives Resiliency Act](https://www2.archivists.org/groups/committee-on-public-policy/public-archives-resiliency-act) (still looking - contact me if you want to help!)
 - I interviewed for 4 full time jobs and responded to 7 RFPs that didn't pan out.
 
 ## Building the business
@@ -67,7 +67,7 @@ I'm open to more work right now, so [reach out](https://cryptpad.fr/form/#/2/for
 
 I'm co-presenting at a Society of California Archivists workshop on August 21 "Promoting Archival Work Through Advocacy and Outreach." The topic is strategies and tactics for advocating for archives. [Join me](https://calarchivists.org/event-6266088/Registration)! 
 
-I'm also helping a small nonprofit with a records management project, wrapping up the aforementioned publication on community academic publishing, and working with a professional association to redesign part of their digital archives curriculum. I am (still) wrapping up my Library Futures Research Network project, too.
+I'm also helping a small nonprofit with a records management project, wrapping up the aforementioned publication on community academic publishing, and working with a professional association to redesign part of their digital archives curriculum.
 
 Looking ahead, I am continuing to scale back on my unpaid work list. I have finished many of the commitments on that list, and I am taking a break from SAA starting this fall. The one thing I am unwilling to let go is cosponsorship of PARA - I'll continue banging that drum!
 
